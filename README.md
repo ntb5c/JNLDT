@@ -1,0 +1,2 @@
+# JNLDT
+Inventory Management Website
